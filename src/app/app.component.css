@@ -1,17 +1,22 @@
 a{
-    margin-left: 10px;
+    margin-left: 3%;
 
 }
 
 body
 {
-    padding:0px;
-    margin:0px;
-    background-color:aqua;
+    padding-bottom:10%;
+    margin:0%;
+    background-image:url("../images/lightblue.jpg");
+
 
 }
 header
 {
-    padding:0px;
-    margin:0px;
+    margin:2%;
+    background-color:lightblue;
+}
+html
+{
+
 }
